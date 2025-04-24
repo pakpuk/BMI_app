@@ -6,9 +6,9 @@ A lightweight, performant Flutter application for calculating and tracking Body 
 
 ## 📱 Overview
 
-The **BMI App** is a mobile-first Flutter application designed to demonstrate fundamental principles in cross-platform development. It provides users with an intuitive interface to calculate their BMI using height and weight inputs.
+The **BMI App** is a mobile Flutter application designed to demonstrate fundamental principles in cross-platform development. It provides users with an intuitive interface to calculate their BMI using height and weight inputs.
 
-This project is built with scalability in mind, making it an ideal foundation for anyone looking to extend features such as user profiles, data persistence, or integration with health APIs.
+This project is built with scalability in mind, making it an ideal foundation for anyone looking to extend features such as user profiles
 
 ---
 
